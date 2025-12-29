@@ -94,3 +94,5 @@ terraform/terraform.tfstate.backup
 qualibytes-key.pub
 qualibytes-keykubectl
 terraform/kubectl
+kubectl
+terraform/kubectl
